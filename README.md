@@ -141,6 +141,4 @@ jobs:
 
 ---
 
-## 📄 License
 
-MIT License — free to use and adapt.
