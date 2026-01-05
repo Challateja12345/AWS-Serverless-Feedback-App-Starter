@@ -15,10 +15,11 @@ Build a **real-world, serverless AWS project** that lets users submit feedback w
 - **CI/CD pipeline** using GitHub Actions
 
 ---
+![1](https://github.com/user-attachments/assets/7611aea9-d9de-4175-8120-9a1e7873e598)
 
 ## 🧱 Architecture
 
-```![Uploading Screenshot 2026-01-05 135044.png…]()
+```
 
 User → CloudFront → S3 (index.html)
            ↓
