@@ -18,7 +18,8 @@ Build a **real-world, serverless AWS project** that lets users submit feedback w
 
 ## 🧱 Architecture
 
-```
+```![Uploading Screenshot 2026-01-05 135044.png…]()
+
 User → CloudFront → S3 (index.html)
            ↓
    JavaScript Form Submit
